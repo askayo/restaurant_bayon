@@ -10,5 +10,7 @@ Faire un ``` flutter pub get ``` pour récupérer les dépendances
 
 puis un ```flutter run ```
 
+ ```flutter run -d chrome ``` pour le lancer sur le navigateur Chrome
+
 
 
